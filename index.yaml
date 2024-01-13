@@ -1,0 +1,6 @@
+format_version: 1
+version: 0.0.0-000000
+created: 2024-01-13T02:51:27
+description: OSv base image for developers
+build: scripts/build image=empty
+platform: Arch Linux
